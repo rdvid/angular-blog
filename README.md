@@ -1,2 +1,2 @@
 # angular-blog
-a Blog project wi/ angular
+a Blog project created with Angular
